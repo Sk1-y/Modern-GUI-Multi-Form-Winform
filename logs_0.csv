@@ -1,0 +1,302 @@
+1629046748345,2021.08.15 19:59:08.345,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MVoid* CVEStoryboardData::MakeTransformArray(MDWord*, MRESULT*, AMVE_POSITION_RANGE_TYPE*, MBool)----ERR----this(0x76f9fea000) err 0x85e045
+1629047545345,2021.08.15 20:12:25.345,ERROR,PRETTY_LOGGER,ModuleID(0x1)----MRESULT CMV2Player::DoRefreshStream()----ERR----this(0x76fab96400) err 0x84f03a
+1629051168050,2021.08.15 21:12:48.050,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,2569), res:0x00000000
+1629051168051,2021.08.15 21:12:48.051,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2569,0), res:0x00000000
+1629051168080,2021.08.15 21:12:48.080,ERROR,PRETTY_LOGGER,ModuleID(0x80)----virtual MRESULT CVEVideoTrack::GetKeyFrame(MBool, MDWord, MDWord*, MBool)----ERR----this(0x7ce3a47580) err 0x104
+1629051180895,2021.08.15 21:13:00.895,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,2569), res:0x00000000
+1629051180896,2021.08.15 21:13:00.896,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2569,0), res:0x00000000
+1629051180954,2021.08.15 21:13:00.954,ERROR,PRETTY_LOGGER,ModuleID(0x80)----virtual MRESULT CVEVideoTrack::GetKeyFrame(MBool, MDWord, MDWord*, MBool)----ERR----this(0x7ce3a47580) err 0x104
+1629051182838,2021.08.15 21:13:02.838,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,2569), res:0x00000000
+1629051182838,2021.08.15 21:13:02.838,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2569,0), res:0x00000000
+1629051182877,2021.08.15 21:13:02.877,ERROR,PRETTY_LOGGER,ModuleID(0x80)----virtual MRESULT CVEVideoTrack::GetKeyFrame(MBool, MDWord, MDWord*, MBool)----ERR----this(0x7ce3a47580) err 0x104
+1629051189812,2021.08.15 21:13:09.812,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,2569), res:0x00000000
+1629051189812,2021.08.15 21:13:09.812,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2569,0), res:0x00000000
+1629051189841,2021.08.15 21:13:09.841,ERROR,PRETTY_LOGGER,ModuleID(0x80)----virtual MRESULT CVEVideoTrack::GetKeyFrame(MBool, MDWord, MDWord*, MBool)----ERR----this(0x7ce3a47580) err 0x104
+1629051239411,2021.08.15 21:13:59.411,ERROR,PRETTY_LOGGER,ModuleID(0x1)----virtual MRESULT CMV2MediaOutputStream::SeekAudio(MDWord*)----ERR----this(0x7cd8a17d00) err 0x4009
+1629051367786,2021.08.15 21:16:07.786,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MVoid* CVEStoryboardData::MakeTransformArray(MDWord*, MRESULT*, AMVE_POSITION_RANGE_TYPE*, MBool)----ERR----this(0x7ce77c1800) err 0x85e045
+1629051367937,2021.08.15 21:16:07.937,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cd97de800 dwIndex=0,out of range
+1629051367968,2021.08.15 21:16:07.968,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cd2ce8000 dwIndex=0,out of range
+1629051367996,2021.08.15 21:16:07.996,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7ccebf6000 dwIndex=0,out of range
+1629051368025,2021.08.15 21:16:08.025,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cce7de800 dwIndex=0,out of range
+1629051368054,2021.08.15 21:16:08.054,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cce7df800 dwIndex=0,out of range
+1629051368106,2021.08.15 21:16:08.106,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cd0b4e000 dwIndex=0,out of range
+1629051368128,2021.08.15 21:16:08.128,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7ccf424800 dwIndex=0,out of range
+1629051368146,2021.08.15 21:16:08.146,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cce2d5800 dwIndex=0,out of range
+1629051368183,2021.08.15 21:16:08.183,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cce2d6000 dwIndex=0,out of range
+1629051368201,2021.08.15 21:16:08.201,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cce381000 dwIndex=0,out of range
+1629051368231,2021.08.15 21:16:08.231,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cce381800 dwIndex=0,out of range
+1629051413060,2021.08.15 21:16:53.060,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051413060,2021.08.15 21:16:53.060,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051428494,2021.08.15 21:17:08.494,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051428495,2021.08.15 21:17:08.495,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051439927,2021.08.15 21:17:19.927,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051439928,2021.08.15 21:17:19.928,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051441498,2021.08.15 21:17:21.498,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051441498,2021.08.15 21:17:21.498,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051443639,2021.08.15 21:17:23.639,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051443639,2021.08.15 21:17:23.639,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051456123,2021.08.15 21:17:36.123,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051456123,2021.08.15 21:17:36.123,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051460713,2021.08.15 21:17:40.713,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051460713,2021.08.15 21:17:40.713,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051460939,2021.08.15 21:17:40.939,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051460939,2021.08.15 21:17:40.939,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051464355,2021.08.15 21:17:44.355,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051464356,2021.08.15 21:17:44.356,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051475403,2021.08.15 21:17:55.403,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051475404,2021.08.15 21:17:55.404,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051525231,2021.08.15 21:18:45.231,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051525231,2021.08.15 21:18:45.231,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051525985,2021.08.15 21:18:45.985,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051525985,2021.08.15 21:18:45.985,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051526186,2021.08.15 21:18:46.186,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051526186,2021.08.15 21:18:46.186,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051527406,2021.08.15 21:18:47.406,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051527407,2021.08.15 21:18:47.407,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051534342,2021.08.15 21:18:54.342,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051534342,2021.08.15 21:18:54.342,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051538202,2021.08.15 21:18:58.202,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051538202,2021.08.15 21:18:58.202,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051554741,2021.08.15 21:19:14.741,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051554741,2021.08.15 21:19:14.741,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051554938,2021.08.15 21:19:14.938,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051554938,2021.08.15 21:19:14.938,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051558255,2021.08.15 21:19:18.255,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051558255,2021.08.15 21:19:18.255,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051561767,2021.08.15 21:19:21.767,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051561768,2021.08.15 21:19:21.768,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051567280,2021.08.15 21:19:27.280,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051567280,2021.08.15 21:19:27.280,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051571410,2021.08.15 21:19:31.410,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051571410,2021.08.15 21:19:31.410,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051572349,2021.08.15 21:19:32.349,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051572350,2021.08.15 21:19:32.350,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051574140,2021.08.15 21:19:34.140,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051574141,2021.08.15 21:19:34.141,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051574719,2021.08.15 21:19:34.719,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051574720,2021.08.15 21:19:34.720,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051574937,2021.08.15 21:19:34.937,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051574937,2021.08.15 21:19:34.937,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051576686,2021.08.15 21:19:36.686,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051576686,2021.08.15 21:19:36.686,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051589541,2021.08.15 21:19:49.541,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051589541,2021.08.15 21:19:49.541,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051590249,2021.08.15 21:19:50.249,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051590249,2021.08.15 21:19:50.249,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051645440,2021.08.15 21:20:45.440,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051645440,2021.08.15 21:20:45.440,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051655397,2021.08.15 21:20:55.397,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cc6841000 dwIndex=0,out of range
+1629051655413,2021.08.15 21:20:55.413,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cc67d9000 dwIndex=0,out of range
+1629051655427,2021.08.15 21:20:55.427,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cc67d9800 dwIndex=0,out of range
+1629051655444,2021.08.15 21:20:55.444,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cc5771800 dwIndex=0,out of range
+1629051655460,2021.08.15 21:20:55.460,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7ce3a6e000 dwIndex=0,out of range
+1629051655474,2021.08.15 21:20:55.474,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7ce3a6e800 dwIndex=0,out of range
+1629051655488,2021.08.15 21:20:55.488,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7ce28ab000 dwIndex=0,out of range
+1629051655501,2021.08.15 21:20:55.501,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7ce28ab800 dwIndex=0,out of range
+1629051655512,2021.08.15 21:20:55.512,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cd13c9000 dwIndex=0,out of range
+1629051669221,2021.08.15 21:21:09.221,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MVoid* CVEStoryboardData::MakeTransformArray(MDWord*, MRESULT*, AMVE_POSITION_RANGE_TYPE*, MBool)----ERR----this(0x7ce77c0400) err 0x85e045
+1629051669365,2021.08.15 21:21:09.365,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cfa16c800 dwIndex=0,out of range
+1629051669422,2021.08.15 21:21:09.422,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7ccf09e000 dwIndex=0,out of range
+1629051669440,2021.08.15 21:21:09.440,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7ccf09e800 dwIndex=0,out of range
+1629051674541,2021.08.15 21:21:14.541,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cd97db800 dwIndex=0,out of range
+1629051674559,2021.08.15 21:21:14.559,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cd2c86000 dwIndex=0,out of range
+1629051674573,2021.08.15 21:21:14.573,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7ccf21c800 dwIndex=0,out of range
+1629051674587,2021.08.15 21:21:14.587,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cd2c85000 dwIndex=0,out of range
+1629051674601,2021.08.15 21:21:14.601,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cd2c85800 dwIndex=0,out of range
+1629051674610,2021.08.15 21:21:14.610,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cce0de000 dwIndex=0,out of range
+1629051732293,2021.08.15 21:22:12.293,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629051732293,2021.08.15 21:22:12.293,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629051732293,2021.08.15 21:22:12.293,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629051751525,2021.08.15 21:22:31.525,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629051751525,2021.08.15 21:22:31.525,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629051751525,2021.08.15 21:22:31.525,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629051752203,2021.08.15 21:22:32.203,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629051752203,2021.08.15 21:22:32.203,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629051752203,2021.08.15 21:22:32.203,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629051752797,2021.08.15 21:22:32.797,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629051752798,2021.08.15 21:22:32.798,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629051752798,2021.08.15 21:22:32.798,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629051755448,2021.08.15 21:22:35.448,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051755448,2021.08.15 21:22:35.448,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051807726,2021.08.15 21:23:27.726,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051807728,2021.08.15 21:23:27.728,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051837098,2021.08.15 21:23:57.098,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051837099,2021.08.15 21:23:57.099,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051837125,2021.08.15 21:23:57.125,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629051837125,2021.08.15 21:23:57.125,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629051837125,2021.08.15 21:23:57.125,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629051851286,2021.08.15 21:24:11.286,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051851286,2021.08.15 21:24:11.286,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051851308,2021.08.15 21:24:11.308,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629051851308,2021.08.15 21:24:11.308,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629051851308,2021.08.15 21:24:11.308,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629051851497,2021.08.15 21:24:11.497,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051851497,2021.08.15 21:24:11.497,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051851541,2021.08.15 21:24:11.541,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629051851541,2021.08.15 21:24:11.541,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629051851541,2021.08.15 21:24:11.541,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629051853689,2021.08.15 21:24:13.689,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051853690,2021.08.15 21:24:13.690,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051853715,2021.08.15 21:24:13.715,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629051853715,2021.08.15 21:24:13.715,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629051853715,2021.08.15 21:24:13.715,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629051855454,2021.08.15 21:24:15.454,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051855454,2021.08.15 21:24:15.454,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051855483,2021.08.15 21:24:15.483,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629051855483,2021.08.15 21:24:15.483,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629051855483,2021.08.15 21:24:15.483,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629051857087,2021.08.15 21:24:17.087,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051857087,2021.08.15 21:24:17.087,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051857124,2021.08.15 21:24:17.124,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629051857125,2021.08.15 21:24:17.125,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629051857125,2021.08.15 21:24:17.125,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629051876732,2021.08.15 21:24:36.732,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051876733,2021.08.15 21:24:36.733,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051876758,2021.08.15 21:24:36.758,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629051876758,2021.08.15 21:24:36.758,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629051876758,2021.08.15 21:24:36.758,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629051878110,2021.08.15 21:24:38.110,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051878110,2021.08.15 21:24:38.110,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051878136,2021.08.15 21:24:38.136,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629051878136,2021.08.15 21:24:38.136,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629051878136,2021.08.15 21:24:38.136,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629051908461,2021.08.15 21:25:08.461,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051908462,2021.08.15 21:25:08.462,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051908487,2021.08.15 21:25:08.487,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629051908487,2021.08.15 21:25:08.487,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629051908487,2021.08.15 21:25:08.487,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629051911214,2021.08.15 21:25:11.214,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051911214,2021.08.15 21:25:11.214,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051911236,2021.08.15 21:25:11.236,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629051911236,2021.08.15 21:25:11.236,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629051911236,2021.08.15 21:25:11.236,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629051915670,2021.08.15 21:25:15.670,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051915670,2021.08.15 21:25:15.670,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051915693,2021.08.15 21:25:15.693,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629051915693,2021.08.15 21:25:15.693,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629051915693,2021.08.15 21:25:15.693,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629051977815,2021.08.15 21:26:17.815,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051977816,2021.08.15 21:26:17.816,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051986260,2021.08.15 21:26:26.260,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051986261,2021.08.15 21:26:26.261,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051986287,2021.08.15 21:26:26.287,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629051986287,2021.08.15 21:26:26.287,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629051986287,2021.08.15 21:26:26.287,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629051989808,2021.08.15 21:26:29.808,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(0,3000), res:0x00000000
+1629051989808,2021.08.15 21:26:29.808,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(2000,1000), res:0x00000000
+1629051989835,2021.08.15 21:26:29.835,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629051989835,2021.08.15 21:26:29.835,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629051989835,2021.08.15 21:26:29.835,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629051996958,2021.08.15 21:26:36.958,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(2000,3000), res:0x00000000
+1629051996958,2021.08.15 21:26:36.958,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(4000,1000), res:0x00000000
+1629052006200,2021.08.15 21:26:46.200,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(2000,3000), res:0x00000000
+1629052006200,2021.08.15 21:26:46.200,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(4000,1000), res:0x00000000
+1629052006225,2021.08.15 21:26:46.225,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052006225,2021.08.15 21:26:46.225,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052006225,2021.08.15 21:26:46.225,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052013602,2021.08.15 21:26:53.602,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(2000,3000), res:0x00000000
+1629052013602,2021.08.15 21:26:53.602,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(4000,1000), res:0x00000000
+1629052013628,2021.08.15 21:26:53.628,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052013628,2021.08.15 21:26:53.628,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052013628,2021.08.15 21:26:53.628,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052017789,2021.08.15 21:26:57.789,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(2000,3000), res:0x00000000
+1629052017789,2021.08.15 21:26:57.789,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(3600,1400), res:0x00000000
+1629052017814,2021.08.15 21:26:57.814,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052017814,2021.08.15 21:26:57.814,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052017815,2021.08.15 21:26:57.815,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052069273,2021.08.15 21:27:49.273,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052069273,2021.08.15 21:27:49.273,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052069273,2021.08.15 21:27:49.273,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052071269,2021.08.15 21:27:51.269,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052071269,2021.08.15 21:27:51.269,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052071269,2021.08.15 21:27:51.269,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052140492,2021.08.15 21:29:00.492,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052140492,2021.08.15 21:29:00.492,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052140492,2021.08.15 21:29:00.492,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052169194,2021.08.15 21:29:29.194,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052169194,2021.08.15 21:29:29.194,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052169194,2021.08.15 21:29:29.194,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052191812,2021.08.15 21:29:51.812,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052191812,2021.08.15 21:29:51.812,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052191812,2021.08.15 21:29:51.812,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052196290,2021.08.15 21:29:56.290,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052196290,2021.08.15 21:29:56.290,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052196290,2021.08.15 21:29:56.290,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052206953,2021.08.15 21:30:06.953,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052206953,2021.08.15 21:30:06.953,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052206953,2021.08.15 21:30:06.953,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052213118,2021.08.15 21:30:13.118,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052213118,2021.08.15 21:30:13.118,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052213118,2021.08.15 21:30:13.118,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052213148,2021.08.15 21:30:13.148,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7ccc6ad800 dwIndex=0,out of range
+1629052213161,2021.08.15 21:30:13.161,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cc3c54000 dwIndex=0,out of range
+1629052213175,2021.08.15 21:30:13.175,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cc3b40000 dwIndex=0,out of range
+1629052213190,2021.08.15 21:30:13.190,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cc1955800 dwIndex=0,out of range
+1629052213206,2021.08.15 21:30:13.206,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cc167b800 dwIndex=0,out of range
+1629052213217,2021.08.15 21:30:13.217,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052213218,2021.08.15 21:30:13.218,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052213218,2021.08.15 21:30:13.218,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052213222,2021.08.15 21:30:13.222,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cc16a0800 dwIndex=0,out of range
+1629052213244,2021.08.15 21:30:13.244,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cc0842000 dwIndex=0,out of range
+1629052213259,2021.08.15 21:30:13.259,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cc09fa000 dwIndex=0,out of range
+1629052213275,2021.08.15 21:30:13.275,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cc0bba000 dwIndex=0,out of range
+1629052213291,2021.08.15 21:30:13.291,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cca52f000 dwIndex=0,out of range
+1629052213306,2021.08.15 21:30:13.306,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cca5cb800 dwIndex=0,out of range
+1629052213328,2021.08.15 21:30:13.328,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cca5fd800 dwIndex=0,out of range
+1629052247113,2021.08.15 21:30:47.113,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(2000,3000), res:0x00000000
+1629052247113,2021.08.15 21:30:47.113,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(3600,1400), res:0x00000000
+1629052250377,2021.08.15 21:30:50.377,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetClipTimeRange, time_range(2000,3000), res:0x00000000
+1629052250380,2021.08.15 21:30:50.380,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----_QVMonitor_Default_Tag_----ERR----AMVES_StoryboardGetTranstionTimeRange, time_range(5000,0), res:0x00000000
+1629052250403,2021.08.15 21:30:50.403,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052250404,2021.08.15 21:30:50.404,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052250404,2021.08.15 21:30:50.404,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052273384,2021.08.15 21:31:13.384,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052273385,2021.08.15 21:31:13.385,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052273385,2021.08.15 21:31:13.385,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052273423,2021.08.15 21:31:13.423,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cca5fd800 dwIndex=0,out of range
+1629052276094,2021.08.15 21:31:16.094,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052276095,2021.08.15 21:31:16.095,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052276095,2021.08.15 21:31:16.095,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052276578,2021.08.15 21:31:16.578,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052276578,2021.08.15 21:31:16.578,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052276578,2021.08.15 21:31:16.578,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052276817,2021.08.15 21:31:16.817,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052276818,2021.08.15 21:31:16.818,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052276818,2021.08.15 21:31:16.818,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052297240,2021.08.15 21:31:37.240,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052297241,2021.08.15 21:31:37.241,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052297241,2021.08.15 21:31:37.241,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052322944,2021.08.15 21:32:02.944,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052322944,2021.08.15 21:32:02.944,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052322944,2021.08.15 21:32:02.944,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052322989,2021.08.15 21:32:02.989,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cc5694800 dwIndex=0,out of range
+1629052323002,2021.08.15 21:32:03.002,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cd0422000 dwIndex=0,out of range
+1629052323016,2021.08.15 21:32:03.016,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cd0422800 dwIndex=0,out of range
+1629052323030,2021.08.15 21:32:03.030,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cca182000 dwIndex=0,out of range
+1629052323041,2021.08.15 21:32:03.041,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052323041,2021.08.15 21:32:03.041,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052323041,2021.08.15 21:32:03.041,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052323045,2021.08.15 21:32:03.045,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cca182800 dwIndex=0,out of range
+1629052323064,2021.08.15 21:32:03.064,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7ce3bff800 dwIndex=0,out of range
+1629052323079,2021.08.15 21:32:03.079,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cd05ff800 dwIndex=0,out of range
+1629052323093,2021.08.15 21:32:03.093,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cce2d5000 dwIndex=0,out of range
+1629052323106,2021.08.15 21:32:03.106,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cce2d6800 dwIndex=0,out of range
+1629052323121,2021.08.15 21:32:03.121,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cccf7a000 dwIndex=0,out of range
+1629052323133,2021.08.15 21:32:03.133,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cccf9a800 dwIndex=0,out of range
+1629052349998,2021.08.15 21:32:29.998,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052349999,2021.08.15 21:32:29.999,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052349999,2021.08.15 21:32:29.999,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052350045,2021.08.15 21:32:30.045,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cd1374000 dwIndex=0,out of range
+1629052350059,2021.08.15 21:32:30.059,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cd1374800 dwIndex=0,out of range
+1629052350073,2021.08.15 21:32:30.073,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cd1378000 dwIndex=0,out of range
+1629052350087,2021.08.15 21:32:30.087,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cd1378800 dwIndex=0,out of range
+1629052350096,2021.08.15 21:32:30.096,ERROR,PRETTY_LOGGER,ModuleID(0x8000000000000000)----MDWord QVET_FaceDTExpressionGetVersion()----ERR----QVET_FaceDTExpressionGetVersion failed, err 0x8e6173
+1629052350097,2021.08.15 21:32:30.097,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----MRESULT FnDTDetectorCreate(MVoid**, DTdetectorDesc*, MVoid*)----ERR----FaceDT check version err, android component version[0], engine version[1]
+1629052350097,2021.08.15 21:32:30.097,ERROR,PRETTY_LOGGER,ModuleID(0x4000)----void* FaceDTUtils_CreateFaceDTContext(MHandle, MChar*, MVoid*)----ERR----res = 8391170
+1629052350102,2021.08.15 21:32:30.102,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cd137f000 dwIndex=0,out of range
+1629052350120,2021.08.15 21:32:30.120,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cd137f800 dwIndex=0,out of range
+1629052350135,2021.08.15 21:32:30.135,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cc9287000 dwIndex=0,out of range
+1629052350148,2021.08.15 21:32:30.148,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cc9287800 dwIndex=0,out of range
+1629052350162,2021.08.15 21:32:30.162,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cc9288000 dwIndex=0,out of range
+1629052350176,2021.08.15 21:32:30.176,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cc9288800 dwIndex=0,out of range
+1629052350188,2021.08.15 21:32:30.188,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7cc7f21000 dwIndex=0,out of range
